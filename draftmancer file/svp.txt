@@ -1,0 +1,1027 @@
+[CustomCards]
+	[    {
+	        "name": "CW01 — Tunnel Prospector",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW01%20%E2%80%94%20Tunnel%20Prospector.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW02 — Scampering Warden",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Squirrel ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW02%20%E2%80%94%20Scampering%20Warden.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW03 — Beloved Creation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Elemental Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW03%20%E2%80%94%20Beloved%20Creation.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW04 — Wilderness Explorer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Ranger ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW04%20%E2%80%94%20Wilderness%20Explorer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW05 — Professional Mechanics",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW05%20%E2%80%94%20Professional%20Mechanics.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW06 — Toothed Remnant",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Cat Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW06%20%E2%80%94%20Toothed%20Remnant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW07 — Herald of Frost",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment Creature — Elemental Archon ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW07%20%E2%80%94%20Herald%20of%20Frost.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW08 — Resolute Strikers",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW08%20%E2%80%94%20Resolute%20Strikers.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW09 — Ursine Logger",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Bear ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW09%20%E2%80%94%20Ursine%20Logger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW10 — Indignant Apparition",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Bear Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW10%20%E2%80%94%20Indignant%20Apparition.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW11 — Black-Winged Eagle",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Enchantment Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW11%20%E2%80%94%20Black-Winged%20Eagle.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW12 — Gracious Barkeep",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW12%20%E2%80%94%20Gracious%20Barkeep.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW13 — Freeze to Death",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW13%20%E2%80%94%20Freeze%20to%20Death.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW14 — Stunned by the City",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW14%20%E2%80%94%20Stunned%20by%20the%20City.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW15 — Autumnal Fall",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW15%20%E2%80%94%20Autumnal%20Fall.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW16 — Fight Back",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW16%20%E2%80%94%20Fight%20Back.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW17 — Reliable Tractor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW17%20%E2%80%94%20Reliable%20Tractor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW18 — Moving Day",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW18%20%E2%80%94%20Moving%20Day.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CW19 — Spontaneous Breakdown",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CW19%20%E2%80%94%20Spontaneous%20Breakdown.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU01 — Subway Courser",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Ranger ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU01%20%E2%80%94%20Subway%20Courser.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU02 — White-Tailed Welder",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Elk Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU02%20%E2%80%94%20White-Tailed%20Welder.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU03 — Sage of the Mists",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU03%20%E2%80%94%20Sage%20of%20the%20Mists.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU04 — Market Analyst",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Cat Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU04%20%E2%80%94%20Market%20Analyst.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU07 — Wintry Amalgam",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU07%20%E2%80%94%20Wintry%20Amalgam.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU08 — Airborne Drifters",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Elemental Jellyfish ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU08%20%E2%80%94%20Airborne%20Drifters.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU09 — Icebound Owl",
+	        "rarity": "common",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU09%20%E2%80%94%20Icebound%20Owl.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU10 — The Great Road Westward",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU10%20%E2%80%94%20The%20Great%20Road%20Westward.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU11 — Defog",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU11%20%E2%80%94%20Defog.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU12 — Decrepit Gas Station",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU12%20%E2%80%94%20Decrepit%20Gas%20Station.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU05 — Fledgling Meteomancer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU05%20%E2%80%94%20Fledgling%20Meteomancer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU13 — Turn on the TV",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU13%20%E2%80%94%20Turn%20on%20the%20TV.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU14 — Blown Away",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU14%20%E2%80%94%20Blown%20Away.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU15 — Troposhield",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU15%20%E2%80%94%20Troposhield.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU17 — Buried by Snow",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU17%20%E2%80%94%20Buried%20by%20Snow.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU18 — Expansive Vistas",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU18%20%E2%80%94%20Expansive%20Vistas.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU06 — Venatorus Borealis",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Elemental Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU06%20%E2%80%94%20Venatorus%20Borealis.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU16 — Stripped-Down Mall",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU16%20%E2%80%94%20Stripped-Down%20Mall.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB01 — Alley Gang Enforcer",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB01%20%E2%80%94%20Alley%20Gang%20Enforcer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB02 — Big City Anarchist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB02%20%E2%80%94%20Big%20City%20Anarchist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB03 — Arachnitricity",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment Creature — Elemental Spider ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB03%20%E2%80%94%20Arachnitricity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB04 — Dedicated Dredger",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Creature — Zombie Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB04%20%E2%80%94%20Dedicated%20Dredger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB05 — Scourge of Rush Hour",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Cat Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB05%20%E2%80%94%20Scourge%20of%20Rush%20Hour.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB06 — Corner Store Butcher",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB06%20%E2%80%94%20Corner%20Store%20Butcher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB07 — Inner-City Necromancer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB07%20%E2%80%94%20Inner-City%20Necromancer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB08 — Executive of Production",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB08%20%E2%80%94%20Executive%20of%20Production.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB09 — Lord of Carrion",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB09%20%E2%80%94%20Lord%20of%20Carrion.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB10 — Derecho Drifter",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Horror Nomad ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB10%20%E2%80%94%20Derecho%20Drifter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB11 — Freshwater Lurker",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Fish ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB11%20%E2%80%94%20Freshwater%20Lurker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB12 — Death's Coils",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB12%20%E2%80%94%20Death%27s%20Coils.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB13 — Taken by the Grain",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB13%20%E2%80%94%20Taken%20by%20the%20Grain.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB14 — Town of Ghosts",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB14%20%E2%80%94%20Town%20of%20Ghosts.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB15 — Lose All Hope",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB15%20%E2%80%94%20Lose%20All%20Hope.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB16 — Crushing Disappointment",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB16%20%E2%80%94%20Crushing%20Disappointment.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB17 — Evil Spreads Again",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB17%20%E2%80%94%20Evil%20Spreads%20Again.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB18 — Soul Stratiform",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB18%20%E2%80%94%20Soul%20Stratiform.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CB19 — Grim Chopper",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CB19%20%E2%80%94%20Grim%20Chopper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR01 — Peculiar Cottontail",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Rabbit Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR01%20%E2%80%94%20Peculiar%20Cottontail.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR02 — Warm Weather Reveler",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Cat Human ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR02%20%E2%80%94%20Warm%20Weather%20Reveler.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR03 — South Wind Sentinel",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR03%20%E2%80%94%20South%20Wind%20Sentinel.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR04 — Corrupted Cervid",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elk Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR04%20%E2%80%94%20Corrupted%20Cervid.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR05 — Geminozoa",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment Creature — Elemental Jellyfish ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR05%20%E2%80%94%20Geminozoa.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR06 — Playful Companion",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Dog ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR06%20%E2%80%94%20Playful%20Companion.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR07 — Petitioner of Thunder",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR07%20%E2%80%94%20Petitioner%20of%20Thunder.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR08 — Elchir's Galeshaper",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR08%20%E2%80%94%20Elchir%27s%20Galeshaper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR09 — Rambunctious Runaways",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Dog ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR09%20%E2%80%94%20Rambunctious%20Runaways.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR10 — Skullcaster Adept",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Cat Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR10%20%E2%80%94%20Skullcaster%20Adept.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR11 — Elemental of Sorrow",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR11%20%E2%80%94%20Elemental%20of%20Sorrow.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR12 — Sunburn",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR12%20%E2%80%94%20Sunburn.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR13 — Merciless Heatwave",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR13%20%E2%80%94%20Merciless%20Heatwave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR14 — Elchir's Offer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR14%20%E2%80%94%20Elchir%27s%20Offer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR15 — School Day's End",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR15%20%E2%80%94%20School%20Day%27s%20End.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR16 — Changing Winds",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR16%20%E2%80%94%20Changing%20Winds.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR17 — Scrapyard Armaments",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR17%20%E2%80%94%20Scrapyard%20Armaments.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR18 — Back Alley Smackdown",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR18%20%E2%80%94%20Back%20Alley%20Smackdown.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CR19 — Fateful Ride",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CR19%20%E2%80%94%20Fateful%20Ride.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG01 — Herald of the Thaw",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG01%20%E2%80%94%20Herald%20of%20the%20Thaw.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG02 — Reciprocal Growths",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG02%20%E2%80%94%20Reciprocal%20Growths.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG03 — Huntsmen of Tradition",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Ranger ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG03%20%E2%80%94%20Huntsmen%20of%20Tradition.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG04 — Pollenshield Cultivator",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG04%20%E2%80%94%20Pollenshield%20Cultivator.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG05 — Range Patrol",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Ranger ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG05%20%E2%80%94%20Range%20Patrol.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG06 — Pride of the Town",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Cat Gamer Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG06%20%E2%80%94%20Pride%20of%20the%20Town.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG07 — Rancourous Preacher",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG07%20%E2%80%94%20Rancourous%20Preacher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG08 — Understory Ambler",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG08%20%E2%80%94%20Understory%20Ambler.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG09 — Surly Frontiersman",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment Creature — Giant ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG09%20%E2%80%94%20Surly%20Frontiersman.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG13 — Sidewalk Skirmish",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG13%20%E2%80%94%20Sidewalk%20Skirmish.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG14 — Heart in Bloom",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG14%20%E2%80%94%20Heart%20in%20Bloom.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG15 — Peek Through the Clouds",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG15%20%E2%80%94%20Peek%20Through%20the%20Clouds.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG11 — Luminous Striders",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG11%20%E2%80%94%20Luminous%20Striders.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG16 — Paths Unimagined",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG16%20%E2%80%94%20Paths%20Unimagined.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG17 — Hunting Rifle",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG17%20%E2%80%94%20Hunting%20Rifle.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG18 — Natural State",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG18%20%E2%80%94%20Natural%20State.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG19 — Leave Home Behind",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG19%20%E2%80%94%20Leave%20Home%20Behind.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG10 — Ancient Woolcloak",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Ox ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG10%20%E2%80%94%20Ancient%20Woolcloak.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CA01 — Possesed Automobile",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CA01%20%E2%80%94%20Possesed%20Automobile.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CA02 — Orphaned Explorer",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CA02%20%E2%80%94%20Orphaned%20Explorer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CA03 — Field Watcher",
+	        "rarity": "common",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Scarecrow ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CA03%20%E2%80%94%20Field%20Watcher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CA04 — Many-Layered Meal",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Food Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CA04%20%E2%80%94%20Many-Layered%20Meal.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CA05 — Meteomancer's Aegis",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CA05%20%E2%80%94%20Meteomancer%27s%20Aegis.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CA06 — Manalytic Converter",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CA06%20%E2%80%94%20Manalytic%20Converter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CL01 — Evolving Wilds",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CL01%20%E2%80%94%20Evolving%20Wilds.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CU19 — Cherished Glider",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CU19%20%E2%80%94%20Cherished%20Glider.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "CG12 — Colossal Omnivore",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG12%20%E2%80%94%20Colossal%20Omnivore.png?raw=true"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+	[UncommonSlot(3)]
+	[CommonSlot(10)]
+		6 CW01 — Tunnel Prospector
+		6 CW02 — Scampering Warden
+		6 CW03 — Beloved Creation
+		6 CW04 — Wilderness Explorer
+		6 CW05 — Professional Mechanics
+		6 CW06 — Toothed Remnant
+		6 CW07 — Herald of Frost
+		6 CW08 — Resolute Strikers
+		6 CW09 — Ursine Logger
+		6 CW10 — Indignant Apparition
+		6 CW11 — Black-Winged Eagle
+		6 CW12 — Gracious Barkeep
+		6 CW13 — Freeze to Death
+		6 CW14 — Stunned by the City
+		6 CW15 — Autumnal Fall
+		6 CW16 — Fight Back
+		6 CW17 — Reliable Tractor
+		6 CW18 — Moving Day
+		6 CW19 — Spontaneous Breakdown
+		6 CU01 — Subway Courser
+		6 CU02 — White-Tailed Welder
+		6 CU03 — Sage of the Mists
+		6 CU04 — Market Analyst
+		6 CU07 — Wintry Amalgam
+		6 CU08 — Airborne Drifters
+		6 CU09 — Icebound Owl
+		6 CU10 — The Great Road Westward
+		6 CU11 — Defog
+		6 CU12 — Decrepit Gas Station
+		6 CU05 — Fledgling Meteomancer
+		6 CU13 — Turn on the TV
+		6 CU14 — Blown Away
+		6 CU15 — Troposhield
+		6 CU17 — Buried by Snow
+		6 CU18 — Expansive Vistas
+		6 CU06 — Venatorus Borealis
+		6 CU16 — Stripped-Down Mall
+		6 CB01 — Alley Gang Enforcer
+		6 CB02 — Big City Anarchist
+		6 CB03 — Arachnitricity
+		6 CB04 — Dedicated Dredger
+		6 CB05 — Scourge of Rush Hour
+		6 CB06 — Corner Store Butcher
+		6 CB07 — Inner-City Necromancer
+		6 CB08 — Executive of Production
+		6 CB09 — Lord of Carrion
+		6 CB10 — Derecho Drifter
+		6 CB11 — Freshwater Lurker
+		6 CB12 — Death's Coils
+		6 CB13 — Taken by the Grain
+		6 CB14 — Town of Ghosts
+		6 CB15 — Lose All Hope
+		6 CB16 — Crushing Disappointment
+		6 CB17 — Evil Spreads Again
+		6 CB18 — Soul Stratiform
+		6 CB19 — Grim Chopper
+		6 CR01 — Peculiar Cottontail
+		6 CR02 — Warm Weather Reveler
+		6 CR03 — South Wind Sentinel
+		6 CR04 — Corrupted Cervid
+		6 CR05 — Geminozoa
+		6 CR06 — Playful Companion
+		6 CR07 — Petitioner of Thunder
+		6 CR08 — Elchir's Galeshaper
+		6 CR09 — Rambunctious Runaways
+		6 CR10 — Skullcaster Adept
+		6 CR11 — Elemental of Sorrow
+		6 CR12 — Sunburn
+		6 CR13 — Merciless Heatwave
+		6 CR14 — Elchir's Offer
+		6 CR15 — School Day's End
+		6 CR16 — Changing Winds
+		6 CR17 — Scrapyard Armaments
+		6 CR18 — Back Alley Smackdown
+		6 CR19 — Fateful Ride
+		6 CG01 — Herald of the Thaw
+		6 CG02 — Reciprocal Growths
+		6 CG03 — Huntsmen of Tradition
+		6 CG04 — Pollenshield Cultivator
+		6 CG05 — Range Patrol
+		6 CG06 — Pride of the Town
+		6 CG07 — Rancourous Preacher
+		6 CG08 — Understory Ambler
+		6 CG09 — Surly Frontiersman
+		6 CG13 — Sidewalk Skirmish
+		6 CG14 — Heart in Bloom
+		6 CG15 — Peek Through the Clouds
+		6 CG11 — Luminous Striders
+		6 CG16 — Paths Unimagined
+		6 CG17 — Hunting Rifle
+		6 CG18 — Natural State
+		6 CG19 — Leave Home Behind
+		6 CG10 — Ancient Woolcloak
+		6 CA01 — Possesed Automobile
+		6 CA02 — Orphaned Explorer
+		6 CA03 — Field Watcher
+		6 CA04 — Many-Layered Meal
+		6 CA05 — Meteomancer's Aegis
+		6 CA06 — Manalytic Converter
+		6 CL01 — Evolving Wilds
+		6 CU19 — Cherished Glider
+		6 CG12 — Colossal Omnivore
+	[BasicSlot(0)]
+	

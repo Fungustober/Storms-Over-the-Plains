@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>SVP</name>
+<longname>Storms Over the Plains</longname>
+<settype>Custom</settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>CW01 — Tunnel Prospector</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>1W: Tunnel Prospector gets +1/+1 and can’t be blocked until end of turn.</text>
+</card>
+<card>
+ <name>CW02 — Scampering Warden</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Squirrel </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Scampering Warden enters or dies, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+</card>
+<card>
+ <name>CW03 — Beloved Creation</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elemental Construct </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Beloved Creation enters, make it snow. (Whenever it snows, create a 2/2 white Elemental creature token with decayed.)</text>
+</card>
+<card>
+ <name>CW04 — Wilderness Explorer</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Ranger </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a land enters under your control, you gain 1 life.</text>
+</card>
+<card>
+ <name>CW05 — Professional Mechanics</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Professional Mechanics crews a vehicle, that vehicle gains vigilance until end of turn.</text>
+</card>
+<card>
+ <name>CW06 — Toothed Remnant</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Cat Beast </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>As long as eight or more cards are in your graveyard, Toothed Remnant has first strike.</text>
+</card>
+<card>
+ <name>CW07 — Herald of Frost</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment Creature - Elemental Archon </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>2, T, This costs 2 less to activate as long as the weather is snowy: Tap target creature.</text>
+</card>
+<card>
+ <name>CW08 — Resolute Strikers</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a rusty spell, target creature you control gets +1/+1 until end of turn. (Artifacts, Artificers, and Scouts are rusty.)</text>
+</card>
+<card>
+ <name>CW09 — Ursine Logger</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Bear </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Ursine Logger enters, search your library for a basic Plains card, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>CW10 — Indignant Apparition</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Bear Spirit </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When you discard Indignant Apparition, you may pay W. If you do, create a token that’s a copy of it, except it’s 1/1.</text>
+</card>
+<card>
+ <name>CW11 — Black-Winged Eagle</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment Creature - Bird </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a land enters under your control, Black-Winged Eagle gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>CW12 — Gracious Barkeep</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Citizen </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Gracious Barkeep attacks, if the weather is snowy, creatures you control get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>CW13 — Freeze to Death</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target tapped creature. Make it snow. (Whenever it snows, create a 2/2 white Elemental creature token with decayed.)</text>
+</card>
+<card>
+ <name>CW14 — Stunned by the City</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature or planeswalker
+Enchanted permanent can’t attack or block and its abilities can’t be activated.</text>
+</card>
+<card>
+ <name>CW15 — Autumnal Fall</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature with power or toughness 4 or greater. If you control five or more lands, scry 2.</text>
+</card>
+<card>
+ <name>CW16 — Fight Back</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+2 until end of turn. If that creature is rusty, it gets an additional +1/+1 until end of turn. (Artifacts, Artificers, and Scouts are rusty.)</text>
+</card>
+<card>
+ <name>CW17 — Reliable Tractor</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Whenever Reliable Tractor attacks, untap another target attacking creature.
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>CW18 — Moving Day</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your end step, if you’ve cast two or more rusty spells this turn, create a 1/1 white Human creature token. (Artifacts, Artificers, and Scouts are rusty.)</text>
+</card>
+<card>
+ <name>CW19 — Spontaneous Breakdown</name>
+ <set rarity="common">SVP</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact or enchantment. If the weather is snowy, exile that permanent instead.
+You gain 2 life.</text>
+</card>
+<card>
+ <name>CU01 — Subway Courser</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Ranger </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>As long as the weather is snowy, Subway Courser can’t be blocked.
+Whenever Subway Courser deals combat damage to a player, you may tap an untapped creature you control. If you do, scry 1.</text>
+</card>
+<card>
+ <name>CU02 — White-Tailed Welder</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elk Artificer </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When White-Tailed Welder enters, create an Equipment artifact token with “Equipped creature gets +1/+1” and equip 1.</text>
+</card>
+<card>
+ <name>CU03 — Sage of the Mists</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever the weather changes, Sage of the Mists gets +1/+0 and gains hexproof until end of turn.</text>
+</card>
+<card>
+ <name>CU04 — Market Analyst</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Cat Noble </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever you cast a rusty spell, scry 1. (Artifacts, Artificers, and Scouts are rusty.)</text>
+</card>
+<card>
+ <name>CU07 — Wintry Amalgam</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elemental </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Wintry Amalgam enters, make it snow. (Whenever it snows, create a 2/2 white Elemental creature token with decayed.)
+Whenever you create one or more tokens, put a +1/+1 counter on Wintry Amalgam.</text>
+</card>
+<card>
+ <name>CU08 — Airborne Drifters</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elemental Jellyfish </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+As long as you control two other Elementals, Airborne Drifters has hexproof.</text>
+</card>
+<card>
+ <name>CU09 — Icebound Owl</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>5U</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Bird </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Icebound Owl enters, make it snow, then make it snow again. (Whenever it snows, create a 2/2 white Elemental creature token with decayed.)</text>
+</card>
+<card>
+ <name>CU10 — The Great Road Westward</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell.
+Basic landcycling 3 (3, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+</card>
+<card>
+ <name>CU11 — Defog</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 2.
+You may clear the weather.</text>
+</card>
+<card>
+ <name>CU12 — Decrepit Gas Station</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Decrepit Gas Station enters, draw a card.
+3U: Scry 2.</text>
+</card>
+<card>
+ <name>CU05 — Fledgling Meteomancer</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Fledgling Meteomancer enters, change the weather. (Clear the weather or make it sunny, snowy, or stormy)</text>
+</card>
+<card>
+ <name>CU13 — Turn on the TV</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards.</text>
+</card>
+<card>
+ <name>CU14 — Blown Away</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature to its owner’s hand.
+You may change the weather. (Clear the weather or make it sunny, snowy, or stormy)</text>
+</card>
+<card>
+ <name>CU15 — Troposhield</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>If you changed the weather this turn, you may copy this spell and choose new targets for the copy.
+Up to one target creature you control phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+</card>
+<card>
+ <name>CU17 — Buried by Snow</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has base power and toughness 1/1. 
+As long as it’s snowy, enchanted creature loses all abilities and creature types.</text>
+</card>
+<card>
+ <name>CU18 — Expansive Vistas</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <cmc>6</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Expansive Vistas enters, draw three cards.
+3U, Sacrifice Expansive Vistas, Activate only a a sorcery: Create two 2/2 green Elemental creature tokens.</text>
+</card>
+<card>
+ <name>CU06 — Venatorus Borealis</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elemental Beast </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Venatorus Borealis enters, draw a card.</text>
+</card>
+<card>
+ <name>CU16 — Stripped-Down Mall</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Stripped-Down Mall enters, create a colorless artifact token with “T: Add C. This mana can’t be spent to cast a nonartifact spell.”
+2U: Target creature can’t be blocked this turn.</text>
+</card>
+<card>
+ <name>CB01 — Alley Gang Enforcer</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Assassin </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a rusty spell, Alley Gang Enforcer gains deathtouch until the beginning of your next turn. (Artifacts, Artificers, and Scouts are rusty.)</text>
+</card>
+<card>
+ <name>CB02 — Big City Anarchist</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a rusty spell, Big City Anarchist gets +1/+0 until end of turn. (Artifacts, Artificers, and Scouts are rusty.)</text>
+</card>
+<card>
+ <name>CB03 — Arachnitricity</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment Creature - Elemental Spider </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Arachnitricity enters, make it storm. (Whenever it storms, discard a card, then draw a card.)</text>
+</card>
+<card>
+ <name>CB04 — Dedicated Dredger</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Zombie Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Dedicated Dredger enters, create a 2/2 black Zombie creature token.</text>
+</card>
+<card>
+ <name>CB05 — Scourge of Rush Hour</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Cat Artificer </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Scourge of Rush Hour crews a vehicle, that vehicle gains menace until end of turn.</text>
+</card>
+<card>
+ <name>CB06 — Corner Store Butcher</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Citizen </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Corner Store Butcher enters, each player sacrifices a creature.
+When Corner Store Butcher dies, you gain 2 life.</text>
+</card>
+<card>
+ <name>CB07 — Inner-City Necromancer</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Warlock </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Inner-City Necromancer enters, exile up to two target creature cards from a graveyard and you gain 2 life. If the weather is stormy, you may return those cards to their owner’s hand instead.</text>
+</card>
+<card>
+ <name>CB08 — Executive of Production</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a rusty spell, Executive of Production deals 2 damage to each opponent. (Artifacts, Artificers, and Scouts are rusty.)</text>
+</card>
+<card>
+ <name>CB09 — Lord of Carrion</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Bird </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Lord of Carrion enters or attacks, exile up to one target card from a graveyard. If it’s a creature card, you gain 1 life.</text>
+</card>
+<card>
+ <name>CB10 — Derecho Drifter</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Horror Nomad </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Derecho Drifter gets +2/+1 as long as it’s stormy.</text>
+</card>
+<card>
+ <name>CB11 — Freshwater Lurker</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Fish </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Healing 2 (Damage dealt by this creature also gains you 2 life.)</text>
+</card>
+<card>
+ <name>CB12 — Death's Coils</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell can’t be countered.
+Destroy target creature.</text>
+</card>
+<card>
+ <name>CB13 — Taken by the Grain</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature with toughness 3 or less.</text>
+</card>
+<card>
+ <name>CB14 — Town of Ghosts</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a rusty permanent. (Artifacts, Artificers, and Scouts are rusty.)
+Destroy target creature or planeswalker.</text>
+</card>
+<card>
+ <name>CB15 — Lose All Hope</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Target player discards two cards.
+• Target player sacrifices a creature.</text>
+</card>
+<card>
+ <name>CB16 — Crushing Disappointment</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Each player loses 2 life. You draw two cards.</text>
+</card>
+<card>
+ <name>CB17 — Evil Spreads Again</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You may make it storm. (Whenever it storms, discard a card, then draw a card.)
+Return a creature card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>CB18 — Soul Stratiform</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>When you cast this spell, if the weather is stormy, copy it.
+Soul Stratiform deals 2 damage to target player and you gain 2 life.</text>
+</card>
+<card>
+ <name>CB19 — Grim Chopper</name>
+ <set rarity="common">SVP</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Whenever Grim Chopper deals combat damage to a player, that player discards a card.
+Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>CR01 — Peculiar Cottontail</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Rabbit Beast </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Peculiar Cottontail dies, put its counters on target creature you control.</text>
+</card>
+<card>
+ <name>CR02 — Warm Weather Reveler</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Cat Human </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Warm Weather Reveler attacks, if the weather is sunny, Warm Weather Reveler gains first strike until end of turn.</text>
+</card>
+<card>
+ <name>CR03 — South Wind Sentinel</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+T: South Wind Sentinel deals 1 damage to any noncreature target.
+Whenever the weather changes, untap South Wind Sentinel.</text>
+</card>
+<card>
+ <name>CR04 — Corrupted Cervid</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elk Warlock </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you discard a card, Corrupted Cervid gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>CR05 — Geminozoa</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment Creature - Elemental Jellyfish </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>As long as it’s your turn, Geminozoa has flying.
+When you discard Geminozoa, you may pay 1R. If you do, create a token copy of it, except it’s 1/1.</text>
+</card>
+<card>
+ <name>CR06 — Playful Companion</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dog </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Playful Companion enters with a +1/+1 counter on it.
+2, Remove a +1/+1 counter from Playful Companion: Target creature an opponent controls can’t block this turn.</text>
+</card>
+<card>
+ <name>CR07 — Petitioner of Thunder</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+When Petitioner of Thunder enters, change the weather. (Clear the weather or make it sunny, snowy, or stormy)</text>
+</card>
+<card>
+ <name>CR08 — Elchir's Galeshaper</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Warlock </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Elchir’s Galeshaper enters or attacks, it deals 1 damage to each opponent. If the weather is stormy, Elchir’s Galeshaper deals 2 damage instead.</text>
+</card>
+<card>
+ <name>CR09 — Rambunctious Runaways</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Dog </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever Rambunctious Runaways attacks, as long as eight or more cards are in your graveyard, create a 1/1 red Squirrel token that’s tapped and attacking.</text>
+</card>
+<card>
+ <name>CR10 — Skullcaster Adept</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Cat Warlock </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Skullcaster Adept attacks, you may exile up to one noncreature card from your graveyard. For each card exiled this way, put a +1/+1 counter on Skullcaster Adept.</text>
+</card>
+<card>
+ <name>CR11 — Elemental of Sorrow</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Elemental </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>This spells costs 2 less to cast as long as long as eight or more cards are in your graveyard.
+Haste</text>
+</card>
+<card>
+ <name>CR12 — Sunburn</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Sunburn deals 2 damage to target creature. If the weather is sunny, Sunburn deals 4 damage instead.</text>
+</card>
+<card>
+ <name>CR13 — Merciless Heatwave</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>This spell can’t be countered.
+Merciless Heatwave deals 3 damage to any target. Clear the weather.
+When you discard Merciless Heatwave, you may pay R. If you do, Merciless Heatwave deals 1 damage to any target.</text>
+</card>
+<card>
+ <name>CR14 — Elchir's Offer</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target creature an opponent controls until end of turn. Untap it. It gains haste. If the weather is stormy, that creature gets +2/+0 until end of turn.</text>
+</card>
+<card>
+ <name>CR15 — School Day's End</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control get +2/+0 until end of turn. If the weather is sunny, creatures you control also gain trample until end of turn.</text>
+</card>
+<card>
+ <name>CR16 — Changing Winds</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Discard up to two cards, then draw that many cards. Changing Winds deals 1 damage to each opponent.
+Flashback 1RR (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>CR17 — Scrapyard Armaments</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Scrapyard Armaments enters, attach it to target creature you control.
+Equipped creature gets +2/+0. As long as eight or more cards are in your graveyard, it gets +3/+2 instead.
+Equip 4</text>
+</card>
+<card>
+ <name>CR18 — Back Alley Smackdown</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains double strike until end of turn. Then if the weather is stormy, that creature gets an additional +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>CR19 — Fateful Ride</name>
+ <set rarity="common">SVP</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Change the weather. When you do, up to one target creature can’t block until end of turn. (Clear the weather or make it sunny, snowy, or stormy)</text>
+</card>
+<card>
+ <name>CG01 — Herald of the Thaw</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Bird </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Herald of the Thaw can’t be the target of abilities.
+When Herald of the Thaw enters, make it sunny. (Whenever it’s sunny, put a +1/+1 counter on up to one target creature.)</text>
+</card>
+<card>
+ <name>CG02 — Reciprocal Growths</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Elemental </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>T, Tap an untapped creature you control: Add C. If an Elemental was tapped this way, add one mana of any color instead.</text>
+</card>
+<card>
+ <name>CG03 — Huntsmen of Tradition</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Ranger </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+When Huntsmen of Tradition enters, you may have it fight target creature an opponent controls with flying. (Each deals damage equal to its power to the other.)</text>
+</card>
+<card>
+ <name>CG04 — Pollenshield Cultivator</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Druid </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 1 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)
+Each other creature you control with a +1/+1 counter has ward 1.</text>
+</card>
+<card>
+ <name>CG05 — Range Patrol</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Ranger </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever a land enters under your control, Range Patrol gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>CG06 — Pride of the Town</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Cat Gamer Warrior </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+As long as it’s sunny, Pride of the Town has trample.</text>
+</card>
+<card>
+ <name>CG07 — Rancourous Preacher</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Rancourous Preacher enters, draw a card.
+Whenever Rancourous Preacher blocks, you may exile a card from your hand. If you do, it gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>CG08 — Understory Ambler</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elemental </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Understory Ambler enters or leaves the battlefield, create a 2/2 green Elemental creature token.</text>
+</card>
+<card>
+ <name>CG09 — Surly Frontiersman</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment Creature - Giant </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Surly Frontiersman enters, you may sacrifice a land. When you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>CG13 — Sidewalk Skirmish</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control fights target creature you don’t control. If the weather is sunny, the creature you control deals damage equal to its power to the creature you don’t control instead.</text>
+</card>
+<card>
+ <name>CG14 — Heart in Bloom</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+2 until end of turn. If the weather is sunny, it also gains “When this creature attacks, create a 2/2 green Elemental creature token that’s tapped and attacking” until end of turn.</text>
+</card>
+<card>
+ <name>CG15 — Peek Through the Clouds</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains hexproof and reach until end of turn. Make it sunny. (Whenever it’s sunny, put a +1/+1 counter on up to one target creature.)</text>
+</card>
+<card>
+ <name>CG11 — Luminous Striders</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elemental </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>G, Activate only once each turn: Luminous Striders gets +1/+1 until end of turn.
+Other Elemental creatures you control have “G, Activate only once each turn: This creature gets +1/+1 until end of turn.”</text>
+</card>
+<card>
+ <name>CG16 — Paths Unimagined</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top four cards of your library. You may reveal a creature card from among them, put it into your hand, then shuffle. Put the rest on the bottom of your library in a random order.</text>
+</card>
+<card>
+ <name>CG17 — Hunting Rifle</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Hunting Rifle enters, attach it to target creature.
+Equipped creature gets +1/+2 and has reach.
+Equip 3</text>
+</card>
+<card>
+ <name>CG18 — Natural State</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact or enchantment. Create a 2/2 green Elemental token.</text>
+</card>
+<card>
+ <name>CG19 — Leave Home Behind</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>CG10 — Ancient Woolcloak</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Ox </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Ward 3 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3.)</text>
+</card>
+<card>
+ <name>CA01 — Possesed Automobile</name>
+ <set rarity="common">SVP</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>2: Possesed Automobile becomes an artifact creature until end of turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>CA02 — Orphaned Explorer</name>
+ <set rarity="common">SVP</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Orphaned Explorer enters, put up to one target nonland card from your graveyard on top of your library. If a card wasn’t put on top of your library this way, put a +1/+1 counter on Orphaned Explorer.</text>
+</card>
+<card>
+ <name>CA03 — Field Watcher</name>
+ <set rarity="common">SVP</set>
+ <color></color>
+ <manacost>5</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Scarecrow </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of each other player’s end step, you may pay 3. If you do, draw a card.</text>
+</card>
+<card>
+ <name>CA04 — Many-Layered Meal</name>
+ <set rarity="common">SVP</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Food Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature can’t be blocked.
+Equip 2
+2, T: Sacrifice Many-Layered Meal: You gain 3 life.</text>
+</card>
+<card>
+ <name>CA05 — Meteomancer's Aegis</name>
+ <set rarity="common">SVP</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +0/+2 as long as the weather is stormy, and +2/+0 as long as the weather is clear.
+Equipped creature has vigilance as long as the weather is snowy, and menace as long as the weather is sunny.
+Equip 2</text>
+</card>
+<card>
+ <name>CA06 — Manalytic Converter</name>
+ <set rarity="common">SVP</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add one mana of any color.
+T, Sacrifice Manalytic Converter: Draw a card.</text>
+</card>
+<card>
+ <name>CL01 — Evolving Wilds</name>
+ <set rarity="common">SVP</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice Evolving Wilds: Search your library for a basic land, put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>CU19 — Cherished Glider</name>
+ <set rarity="common">SVP</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1 and has flying.
+Equip 2</text>
+</card>
+<card>
+ <name>CG12 — Colossal Omnivore</name>
+ <set rarity="common">SVP</set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Beast </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Colossal Omnivore enters or attacks, you may exile target card from an opponent’s graveyard. If you exiled a card this way, put a +1/+1 counter on Colossal Omnivore.</text>
+</card>
+
+<!-->Tokens</-->
+
+<card>
+ <name>Snowy Weather SVP</name>
+ <set>SVP</set>
+ <color></color>
+ <type></type>
+ <tablerow>1</tablerow>
+ <text>Whenever the weather becomes snowy, create a 2/2 white Elemental creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Sunny Weather SVP</name>
+ <set>SVP</set>
+ <color></color>
+ <type></type>
+ <tablerow>1</tablerow>
+ <text>Whenever the weather becomes sunny, put a +1/+1 counter on target creature.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Stormy Weather SVP</name>
+ <set>SVP</set>
+ <color></color>
+ <type></type>
+ <tablerow>1</tablerow>
+ <text>Whenever the weather becomes stormy, discard a card, then draw a card.</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Elemental SVP</name>
+ <set>SVP</set>
+ <color>W</color>
+ <type>Token Creature - Elemental </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Decayed (This can’t block. When this attacks, sacrifice it at end of combat.)</text>
+ <token>1</token>
+</card>
+<card>
+ <name>Squirrel SVP</name>
+ <set>SVP</set>
+ <color>R</color>
+ <type>Token Creature - Squirrel </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Elemental SVP</name>
+ <set>SVP</set>
+ <color>G</color>
+ <type>Token Creature - Elemental </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+
+</cards>
+</cockatrice_carddatabase>
