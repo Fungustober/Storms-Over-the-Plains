@@ -1197,7 +1197,7 @@ Equip 2</text>
  <token>1</token>
 </card>
 <card>
- <name>Elemental SVP</name>
+ <name>Elemental2 SVP</name>
  <set>SVP</set>
  <color>G</color>
  <type>Token Creature - Elemental </type>

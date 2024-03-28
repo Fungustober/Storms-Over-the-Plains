@@ -916,10 +916,62 @@
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Storms-Over-the-Plains/blob/main/CG12%20%E2%80%94%20Colossal%20Omnivore.png?raw=true"
 	        }
+	    },
+	    {
+	        "name": "Snowy Weather",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Reminder",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Storms-Over-the-Plains/blob/main/Snowy%20Weather.png"
+	        }
+	    },
+	    {
+	        "name": "Stormy Weather",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Reminder",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Storms-Over-the-Plains/blob/main/Stormy%20Weather.png"
+	        }
+	    },
+	    {
+	        "name": "Sunny Weather",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Reminder",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Storms-Over-the-Plains/blob/main/Sunny%20Weather.png"
+	        }
+	    },
+	    {
+	        "name": "Elemental Token 1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature - Elemental",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Storms-Over-the-Plains/blob/main/Elemental.png"
+	        }
+	    },
+	    {
+	        "name": "Elemental Token 2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature - Elemental",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Storms-Over-the-Plains/blob/main/Elemental2.png"
+	        }
+	    },
+	    {
+	        "name": "Squirrel Token",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature - Squirrel",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Storms-Over-the-Plains/blob/main/Squirrel.png"
+	        }
 	    }
 	]
-	[RareSlot(1)]
-	[UncommonSlot(3)]
 	[CommonSlot(10)]
 		6 CW01 — Tunnel Prospector
 		6 CW02 — Scampering Warden
@@ -1023,5 +1075,6 @@
 		6 CL01 — Evolving Wilds
 		6 CU19 — Cherished Glider
 		6 CG12 — Colossal Omnivore
-	[BasicSlot(0)]
+	[TokenSlot(1)]
+		
 	
