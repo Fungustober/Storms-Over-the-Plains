@@ -902,7 +902,7 @@ Each other creature you control with a +1/+1 counter has ward 1.</text>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Vigilance
-Whenever a land enters under your control, Range Patrol gets +1/+1 until end of turn.</text>
+Whenever a land enters under your control, Range Patrol gets +2/+1 until end of turn.</text>
 </card>
 <card>
  <name>CG06 — Pride of the Town</name>
@@ -913,8 +913,7 @@ Whenever a land enters under your control, Range Patrol gets +1/+1 until end of 
  <type>Creature - Cat Gamer Warrior </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>Vigilance
-As long as it’s sunny, Pride of the Town has trample.</text>
+ <text>As long as it’s sunny, Pride of the Town has trample.</text>
 </card>
 <card>
  <name>CG07 — Rancourous Preacher</name>
